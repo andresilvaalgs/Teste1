@@ -23,3 +23,7 @@ Aprender a organizar meus projetos e iniciar meu portfólio como estudante de te
 ## Atualização feita pelo GitHub
 
 Esta alteração foi feita diretamente pelo navegador.
+
+## Minha evolução
+
+Nesta aula, aprendi a usar o GitHub pelo navegador e também pelo terminal.
