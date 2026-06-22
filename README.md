@@ -19,3 +19,7 @@ Sou estudante do 1º período de Análise e Desenvolvimento de Sistemas.
 ## Objetivo
 
 Aprender a organizar meus projetos e iniciar meu portfólio como estudante de tecnologia.
+
+## Atualização feita pelo GitHub
+
+Esta alteração foi feita diretamente pelo navegador.
